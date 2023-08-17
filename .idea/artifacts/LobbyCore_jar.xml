@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LobbyCore:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LobbyCore_jar</output-path>
+    <root id="archive" name="LobbyCore.jar">
+      <element id="module-output" name="LobbyCore" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

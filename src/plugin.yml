@@ -1,0 +1,10 @@
+main: me.redrixone.LobbyCore
+name: LobbyCore
+version: 1.0
+commands:
+  fly:
+    description: Toggle fly
+    usage: /<command>
+  play:
+    description: Toggle player
+    usage: /<command>
